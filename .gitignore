@@ -1,3 +1,4 @@
 uscis_cases.html
 msedgedriver.exe
 cases.py
+*.pyc

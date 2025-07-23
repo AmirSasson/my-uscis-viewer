@@ -27,7 +27,7 @@ cases = [
 1. Install Python 3.8+ and pip.
 2. Install required packages:
    ```
-   pip install selenium requests
+   pip install -r requirements.txt
    ```
 3. Download the stable version of Edge WebDriver (`msedgedriver.exe`) from [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH).
 4. Place `msedgedriver.exe` in the same directory as `myuscis.py`.
